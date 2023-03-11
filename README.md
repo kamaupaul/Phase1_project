@@ -34,7 +34,7 @@ for this project we will work with movie basics table and the movie rating table
 Each of the following three datasets will help us draw valuable insights and satisfy our objectives.
 
 ### Visualization.
-![visual](download.png)http://localhost:8888/view/download.png
+![visual](download.png)
 ![Visual2](download(1).png)
 ![visual3](download2.png)
 
