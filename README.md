@@ -35,8 +35,8 @@ Each of the following three datasets will help us draw valuable insights and sat
 
 ### Visualization.
 ![visual](download.png)
-![Visual2](download(1).png)
 ![visual3](download2.png)
+![Visual2](download (1).png)
 
 ### Conclusion.
 From the study we can conclude that:
